@@ -23,7 +23,7 @@ Global Land Cover Layers were retrieved from ArcGIS Living Atlas provided by Esr
 
 **5. Calculating the area and difference**. In order to calculate the area of each land cover type, new column was added to attribute table and the Calculate Field tool was used with the following formula:
 
-*(!Count! * 96100)*0.000001*
+(!Count! * 96100)*0.000001
 
 Each cell size is 310 x 310 meters, so the area of each cell is 96100 m2. In the given formula, the amount of cells for each land cover type was counted, multiplied by the size of each cell in m2 and then multiplied by 0.000001 to convert the results to km2. New column was added to calculate the difference between the years 2020 and 1992. 
 
