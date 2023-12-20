@@ -8,7 +8,6 @@ Global Land Cover Layers were retrieved from ArcGIS Living Atlas provided by Esr
 
 ### Tools and methods
 **1. Extracting land cover data for Rondonia region**
-
 The Global Land Cover 1992-2020 layer was cut to the borders of the Rondonia state using the Extract by Mask tool. 
 
 **2. Reclassifying raster data**
