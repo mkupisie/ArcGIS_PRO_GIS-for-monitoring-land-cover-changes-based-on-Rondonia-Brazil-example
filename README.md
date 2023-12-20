@@ -8,11 +8,10 @@ Global Land Cover Layers were retrieved from ArcGIS Living Atlas provided by Esr
 
 ### Tools and methods
 **1. Extracting land cover data for Rondonia region**
-The Global Land Cover 1992-2020 layer was cut to the borders of the Rondonia state using the Extract by Mask tool. 
+  The Global Land Cover 1992-2020 layer was cut to the borders of the Rondonia state using the Extract by Mask tool. 
 
-**2. Reclassifying raster data**
-
-The Global Land Cover 1992-2020 layer is classified into 36 land cover types, however for the purpose of detecting changes mostly focused on forests, raster was classified into new 11 classes using Reclassify Raster tool. 
+**2. Reclassifying raster data**.
+  The Global Land Cover 1992-2020 layer is classified into 36 land cover types, however for the purpose of detecting changes mostly focused on forests, raster was classified into new 11 classes using Reclassify Raster tool. 
 
 **3. Retrieving data for 1992 and 2020.**
 
