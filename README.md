@@ -32,9 +32,11 @@ Each cell size is 310 x 310 meters, so the area of each cell is 96100 m2. In the
 
 ![Rondonia_deforestation_classify](https://github.com/mkupisie/ArcGIS_PRO_GIS-for-monitoring-land-cover-changes-based-on-Rondonia-Brazil-example/assets/130785524/d4a61341-3461-4894-8da0-98bf8dac1231)
 
-
+<p align="center">
 ![table_area](https://github.com/mkupisie/ArcGIS_PRO_GIS-for-monitoring-land-cover-changes-based-on-Rondonia-Brazil-example/assets/130785524/6d2b7b29-3002-414a-a2d9-d0a86847f600)
+</p>
 
 **Categorical difference**
+![categorical_diff](https://github.com/mkupisie/ArcGIS_PRO_GIS-for-monitoring-land-cover-changes-based-on-Rondonia-Brazil-example/assets/130785524/927a7e86-e5fc-4ab9-b787-bdfbe20484ff)
 
-![categorical_diff](https://github.com/mkupisie/ArcGIS_PRO_GIS-for-monitoring-land-cover-changes-based-on-Rondonia-Brazil-example/assets/130785524/49617539-ed9f-4dc4-bf0f-4e5ba2322bd1)
+
